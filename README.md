@@ -406,7 +406,7 @@ See [LICENSE](LICENSE) for full text.
 
 <div align="center">
 
-**Built with ⚡ by [your-username](https://github.com/your-username) and [contributors](https://github.com/your-username/turbo/graphs/contributors)**
+
 
 <br/>
 
